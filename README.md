@@ -1,6 +1,6 @@
 # SEGT-GO
 
-This repo is for the key implementation of paper "SEGT-GO: A Graph Transformer Method Based on PPI Serialization and Explanatory Artificial Intelligence for Protein Function Prediction".
+This repo contains the data and key codes of the paper "SEGT-GO: A Graph Transformer Method Based on PPI Serialization and Explanatory Artificial Intelligence for Protein Function Prediction."
 
 ## A Gentle Introduction
 
