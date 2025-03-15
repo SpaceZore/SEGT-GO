@@ -48,7 +48,7 @@ If you have any questions, please feel free to contact me at [yansongwang_hit@st
 ## Cite
 
 If you find this code useful, please consider citing the original work by the authors:
-`
+```
 @article{wang2025segt,
   title={SEGT-GO: a graph transformer method based on PPI serialization and explanatory artificial intelligence for protein function prediction},
   author={Wang, Yansong and Sun, Yundong and Lin, Baohui and Zhang, Haotian and Luo, Xiaoling and Liu, Yumeng and Jin, Xiaopeng and Zhu, Dongjie},
@@ -59,4 +59,4 @@ If you find this code useful, please consider citing the original work by the au
   year={2025},
   publisher={Springer}
 }
-`
+```
