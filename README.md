@@ -27,12 +27,15 @@ For more details, please refer to [DeepGraphGO](https://github.com/yourh/DeepGra
 ./cfago_data is the data from [CFAGO](https://academic.oup.com/bioinformatics/article-pdf/39/3/btad123/49598190/btad123.pdf). It is composed as follows:
 
 - human_annot.mat: the protein annotation dictionary
-- human_interpro_feature.npz: the intepro binary features of each protein in CFAGO human dataset
 - human_location_feature.zip: the subcellular location and domain binary features of each protein in CFAGO human dataset
 - human_net_combined.zip: the unnormalized ppi raw network
 - human_proteins.txt: each protein name
 
 For more details, please refer to [CFAGO](https://academic.oup.com/bioinformatics/article-pdf/39/3/btad123/49598190/btad123.pdf) and SEGT-GO Supplemental Material-Part B “Basic Information of Dataset B”.
+
+## Acknowledge
+
+Our code is built upon [DeepGraphGO](https://github.com/yourh/DeepGraphGO) and [NAGphormer](https://github.com/JHL-HUST/NAGphormer), we thank the authors for their open-sourced code.
 
 ## License
 
@@ -40,4 +43,20 @@ This repository is released under the Apache 2.0 license.
 
 ## Contact
 
-If you have any questions, please feel free to contact me with [yansongwang_hit@stu.hit.edu.cn](mailto:yansongwang_hit@stu.hit.edu.cn)
+If you have any questions, please feel free to contact me at [yansongwang_hit@stu.hit.edu.cn](mailto:yansongwang_hit@stu.hit.edu.cn)
+
+## Cite
+
+If you find this code useful, please consider citing the original work by the authors:
+`
+@article{wang2025segt,
+  title={SEGT-GO: a graph transformer method based on PPI serialization and explanatory artificial intelligence for protein function prediction},
+  author={Wang, Yansong and Sun, Yundong and Lin, Baohui and Zhang, Haotian and Luo, Xiaoling and Liu, Yumeng and Jin, Xiaopeng and Zhu, Dongjie},
+  journal={BMC bioinformatics},
+  volume={26},
+  number={1},
+  pages={46},
+  year={2025},
+  publisher={Springer}
+}
+`
