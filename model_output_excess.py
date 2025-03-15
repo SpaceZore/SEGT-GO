@@ -1,3 +1,7 @@
+# --------------------------------------------------------
+# Part of code borrowed from NAGphormer
+# --------------------------------------------------------
+
 import torch
 import math
 import torch.nn as nn
