@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# Codes are borrowed from deepNF and Graph2GO
+# Codes are borrowed from CFAGO
 # --------------------------------------------------------
 
 import numpy as np
