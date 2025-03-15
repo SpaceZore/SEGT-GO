@@ -1,3 +1,7 @@
+# --------------------------------------------------------
+# Codes are borrowed from NAGphormer
+# --------------------------------------------------------
+
 from torch.optim.lr_scheduler import _LRScheduler
 
 
