@@ -1,3 +1,7 @@
+# --------------------------------------------------------
+# Part of code borrowed from NAGphormer
+# --------------------------------------------------------
+
 import warnings
 from sklearn.metrics import average_precision_score as aupr
 import torch
